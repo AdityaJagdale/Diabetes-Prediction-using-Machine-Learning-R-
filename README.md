@@ -1,12 +1,16 @@
-##  README.md for Diabetes Prediction Project
+##  Diabetes Prediction Project
 
-This project explores the use of machine learning models to predict diabetes based on a given dataset. The code provides a step-by-step approach to data loading, cleaning, pre-processing, model building, and evaluation.
+This project explores the use of machine learning models to predict diabetes based on a publicly available dataset. The code provides a step-by-step approach to data loading, cleaning, pre-processing, model building, and evaluation.
+
+### Dataset Source
+
+The data used in this project is from the **"Diabetes Health Indicators Dataset"** available on Kaggle: [https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset](https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset)
 
 ### Getting Started
 
 1. **Prerequisites:** Ensure you have R and required packages (`dplyr`, `rpart`, `rpart.plot`, `e1071`, `caret`, `nnet`, `NeuralNetTools`, `randomForest`) installed.
 
-2. **Data:** Replace the placeholder `# Load required packages` section with the code to load your diabetes dataset.
+2. **Data:** Replace the placeholder `# Load required packages` section with the code to load your diabetes dataset (consider using the one from Kaggle mentioned above).
 
 ### Running the Script
 
